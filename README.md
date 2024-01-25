@@ -1,5 +1,5 @@
 <div align="center">
-<img height="150" src="https://www.freepik.com/free-vector/gradient-data-driven-concept-illustration_29765895.htm#query=A%20girl%20data%20analyst%20sits%20at%20work%20in%20front%20of%20a%20computer%20device%20showing%20statistics%20and%20graphs%20in%20front%20of%20him%20f&position=29&from_view=search&track=ais&uuid=3af616d4-f60d-488e-8b63-c92ff4241883"/>
+<img height="150" src="Profile.avif"/>
 </div>
 
 ###
