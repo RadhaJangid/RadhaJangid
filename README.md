@@ -1,5 +1,5 @@
 <div align="center">
-<img height="150" src="Profile.avif"/>
+<img height="300" src="Profile.avif"/>
 </div>
 
 ###
