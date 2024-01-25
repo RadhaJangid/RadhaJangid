@@ -1,5 +1,5 @@
 <div align="center">
-<img height="150" src="[https://www.google.com/search?q=data+analyst+cartoon&tbm=isch&hl=en-GB&chips=q:data+analysis+animation,online_chips:computer:A5rDpn8ZBDo%3D&rlz=1C1CHBF_enIN1072IN1073&sa=X&ved=2ahUKEwiss-eDxPiDAxXOrGMGHfxfDsgQ4lYoAnoECAEQNw&biw=1579&bih=689#imgrc=Fr0_PxtncxtA_M](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F005%2F607%2F176%2Foriginal%2Fa-data-analyst-sits-at-work-in-front-of-a-computer-device-showing-statistics-and-graphs-in-front-of-him-flat-style-cartoon-illustration-free-vector.jpg&tbnid=Fr0_PxtncxtA_M&vet=12ahUKEwjx0rWdxPiDAxUPgWMGHevIByQQMygAegQIARBX..i&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F5607176-a-data-analyst-sits-at-work-in-front-of-a-computer-device-showing-statistics-and-graphs-in-front-of-him-flat-style-cartoon-illustration-vector&docid=Xzxym1fecX8KBM&w=1920&h=1356&q=data%20analyst%20cartoon&hl=en-GB&ved=2ahUKEwjx0rWdxPiDAxUPgWMGHevIByQQMygAegQIARBX)"/>
+<img height="150" src="https://www.freepik.com/free-vector/gradient-data-driven-concept-illustration_29765895.htm#query=A%20girl%20data%20analyst%20sits%20at%20work%20in%20front%20of%20a%20computer%20device%20showing%20statistics%20and%20graphs%20in%20front%20of%20him%20f&position=29&from_view=search&track=ais&uuid=3af616d4-f60d-488e-8b63-c92ff4241883"/>
 </div>
 
 ###
