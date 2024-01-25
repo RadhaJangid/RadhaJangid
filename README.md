@@ -1,11 +1,11 @@
 <h2 align="left">Hello 👋, I'm Radha Jangid</h2>
 <h3 align="left">I am Data Analyst Enthusiast.</h3>
 
-- 🌱 I’m currently learning *Data Science & Data Analytics*
+- 🌱 I’m currently learning : Data Science & Data Analytics
 
-- 📫 How to reach me jangidradha1299@gmail.com*
+- 📫 How to reach me : jangidradha1299@gmail.com
 
-- ⚡ Fun fact *I Love to pay attention to details :)*
+- ⚡ Fun fact : I Love to pay attention to details :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
