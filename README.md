@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Radha Jangid</h1>
-<h3 align="center">I am Data Analyst Enthusiast.</h3>
+<h2 align="left">Hello 👋, I'm Radha Jangid</h2>
+<h3 align="left">I am Data Analyst Enthusiast.</h3>
 
 - 🌱 I’m currently learning *Data Science & Data Analytics*
 
