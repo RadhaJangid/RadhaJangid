@@ -1,5 +1,5 @@
 # Welcome to my GitHub page 👋
-# :man_student: Radha Jangid
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 ## :tipping_hand_man: About Me
 - Data Analyst & Machine Learning Engineer.
