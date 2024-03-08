@@ -1,12 +1,13 @@
 # :man_student: Radha Jangid
 
 ## :tipping_hand_man: About Me
-
-- Data Analyst.
-- An Tech Artisan & Enthusiast `Data Scientist`.
-- Technically sound Lead & proficient in leading & managing teams.
-- Expertise in Javascript, NodeJs & Python.
-- An MCA Engineer.
+- Data Analyst & Machine Learning Engineer
+- An Tech Artisan & Enthusiast Data Scientist.
+-💬 Good at Python/ML/Excel/SQL/EDA
+-👀I’m so interested in Data Industries
+-⚡Currently Looking for Job.
+-💞️I’m looking to collaborate on any data project
+- An MCA Software Engineer.
 
 ## :computer: Tech Stack
 
