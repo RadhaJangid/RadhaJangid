@@ -1,5 +1,5 @@
 # Welcome to my GitHub page 👋
-![](radha jangid.gif)
+![](radhajangid.gif)
 
 ## :tipping_hand_man: About Me
 - Data Analyst & Machine Learning Engineer.
