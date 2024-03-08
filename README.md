@@ -23,15 +23,10 @@
 
 [![Tools | Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi]
 
-[![Tools | Tableau](https://img.icons8.com/?size=96&id=9Kvi1p1F0tUo&format=png)][tableau]
 
 #### Statistical Programming Languages 
 
 [![Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB)][python]
-
-
-
-
 
 #### Database
 
