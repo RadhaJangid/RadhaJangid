@@ -1,6 +1,5 @@
 # Welcome to my GitHub page 👋
-
-<img src="" align="center">
+![](.gif)
 
 ## :tipping_hand_man: About Me
 - Data Analyst & Machine Learning Engineer.
