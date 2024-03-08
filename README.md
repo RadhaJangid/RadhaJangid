@@ -13,7 +13,7 @@
 ## :computer: Tech Stack
 
 #### Technical Skills 
-[![Tools | SQL](https://img.shields.io/badge/SQL-eeeeee?style=for-the-badge&logo=sql&logoColor=217346&labelColor=fefefe)][sql]
+[![Tools | SQL](https://img.shields.io/badge/SQL-eeeeee?style=for-the-badge&logo=SQL&logoColor=217346&labelColor=fefefe)][sql]
 
 
 #### Spreadsheets 
