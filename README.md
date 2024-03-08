@@ -1,13 +1,13 @@
 # :man_student: Radha Jangid
 
 ## :tipping_hand_man: About Me
-- Data Analyst & Machine Learning Engineer
+- Data Analyst & Machine Learning Engineer.
 - An Tech Artisan & Enthusiast Data Scientist.
--💬 Good at Python/ML/Excel/SQL/EDA
--👀I’m so interested in Data Industries
--⚡Currently Looking for Job.
--💞️I’m looking to collaborate on any data project
-- An MCA Software Engineer.
+- Expertise in Machine Learning, Excel & SQL.
+- Master's degree in Computer Applications.
+- Currently Looking for Job.
+-💞️I’m looking to collaborate on any data project.
+
 
 ## :computer: Tech Stack
 
