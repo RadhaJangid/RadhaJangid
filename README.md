@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 👋
 
-<img src="radha%20jangid.gif" align="center">
+<img src="" align="center">
 
 ## :tipping_hand_man: About Me
 - Data Analyst & Machine Learning Engineer.
