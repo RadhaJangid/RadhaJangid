@@ -41,6 +41,8 @@
 
 
 #### ML
+[![Tools | Machine Learning](https://img.shields.io/badge/Machine_Learning-eeeeee?style=for-the-badge&logo=machine_learning&logoColor=FF6C37&labelColor=fefefe)][machine_learning]
+
 
 #### Other Tools
 
@@ -113,6 +115,7 @@
 [microsoft_excel]: https://www.microsoft.com/en-in/microsoft-365/excel
 [tableau]:https://www.tableau.com/
 [sql]:https://dev.mysql.com/
+[machine_learning]:https://scikit-learn.org/
 
 <!-- GitHub Stats -->
 
