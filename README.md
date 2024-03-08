@@ -4,7 +4,7 @@
 - Data Analyst & Machine Learning Engineer.
 - An Tech Artisan & Enthusiast Data Scientist.
 - Good at Machine Learning, Excel & SQL.
-- Master's degree in Computer Applications.
+- MCA graduate.
 - Currently Looking for Job.
  💞️I’m looking to collaborate on any data project.
 
