@@ -37,11 +37,7 @@
 #### Framework & Library
 
 [![Framework & Library | Pandas](https://img.shields.io/badge/Pandas-eeeeee?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=fefefe)][pandas]
-[![Framework & Library | Matplotlib](https://img.shields.io/badge/Matplotlib-eeeeee?style=for-the-badge&logo=matplotlib&logoColor=150458&labelColor=fefefe)][matplotlib]
 
-
-
-#### ML
 [![Tools | Machine Learning](https://img.shields.io/badge/Machine_Learning-eeeeee?style=for-the-badge&logo=machine_learning&logoColor=FF6C37&labelColor=fefefe)][machine_learning]
 
 
