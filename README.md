@@ -13,7 +13,7 @@
 ## :computer: Tech Stack
 
 #### Technical Skills 
-
+[![Tools | SQL](https://img.shields.io/badge/SQL-eeeeee?style=for-the-badge&logo=microsoft-excel&logoColor=217346&labelColor=fefefe)][sql]
 
 
 #### Spreadsheets 
@@ -22,6 +22,7 @@
 #### Data Visualization Tools
 
 [![Tools | Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi]
+[![Tools | Tableau](https://img.shields.io/badge/Tableau-eeeeee?style=for-the-badge&logo=tableau&logoColor=FF6C37&labelColor=fefefe)][tableau]
 
 
 #### Statistical Programming Languages 
@@ -46,7 +47,6 @@
 [![Tools | Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-eeeeee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2C2C32)][visual_studio_code]
 [![Tools | Jupyter](https://img.shields.io/badge/Jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=fefefe)][jupyter]
 [![Tools | Postman](https://img.shields.io/badge/Postman-eeeeee?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=fefefe)][postman]
-[![Tools | Tableau](https://img.shields.io/badge/Tableau-eeeeee?style=for-the-badge&logo=tableau&logoColor=FF6C37&labelColor=fefefe)][tableau]
 [![Tools | Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=ffffff&labelColor=430098)][heroku]
 [![Tools | MS Office](https://img.shields.io/badge/Microsoft_Office-eeeeee?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=fefefe)][microsoft_office]
 
