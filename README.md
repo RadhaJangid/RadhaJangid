@@ -6,8 +6,7 @@
 - Good at Machine Learning, Excel & SQL.
 - Master's degree in Computer Applications.
 - Currently Looking for Job.
-
-  💞️I’m looking to collaborate on any data project.
+ 💞️I’m looking to collaborate on any data project.
 
 
 ## :computer: Tech Stack
