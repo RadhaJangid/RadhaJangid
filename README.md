@@ -111,6 +111,7 @@
 [power_bi]: https://powerbi.microsoft.com/en-au/
 [visual_studio_code]: https://code.visualstudio.com/
 [microsoft_excel]: https://www.microsoft.com/en-in/microsoft-365/excel
+[tableau]:https://www.tableau.com/
 
 <!-- GitHub Stats -->
 
