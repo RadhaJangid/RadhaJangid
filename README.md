@@ -12,7 +12,12 @@
 ## :computer: Tech Stack
 
 #### Technical Skills 
+
+
+
 #### Spreadsheets 
+[![Tools | MS Excel](https://img.shields.io/badge/Microsoft_Excel-eeeeee?style=for-the-badge&logo=microsoft-excel&logoColor=217346&labelColor=fefefe)][microsoft_excel]
+
 #### Data Visualization Tools
 
 [![Tools | Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi]
@@ -105,7 +110,7 @@
 [postman]: https://www.postman.com/
 [power_bi]: https://powerbi.microsoft.com/en-au/
 [visual_studio_code]: https://code.visualstudio.com/
-
+[microsoft_excel]: https://www.microsoft.com/en-in/microsoft-365/excel
 
 <!-- GitHub Stats -->
 
