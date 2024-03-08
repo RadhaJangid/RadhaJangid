@@ -1,5 +1,5 @@
 # Welcome to my GitHub page 👋
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](name-of-giphy.gif)
 
 ## :tipping_hand_man: About Me
 - Data Analyst & Machine Learning Engineer.
