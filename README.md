@@ -3,10 +3,11 @@
 ## :tipping_hand_man: About Me
 - Data Analyst & Machine Learning Engineer.
 - An Tech Artisan & Enthusiast Data Scientist.
-- Expertise in Machine Learning, Excel & SQL.
+- Good at Machine Learning, Excel & SQL.
 - Master's degree in Computer Applications.
 - Currently Looking for Job.
--💞️I’m looking to collaborate on any data project.
+
+  💞️I’m looking to collaborate on any data project.
 
 
 ## :computer: Tech Stack
