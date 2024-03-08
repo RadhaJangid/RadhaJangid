@@ -116,7 +116,7 @@
 
 <!-- Reach  -->
 
-[reach_github]: https://github.com/GodWin1100
+[reach_github]: https://github.com/RadhaJangid
 [reach_gmail]: mailto:jangidradha1299@gmail.com?subject=GitHub%20Hello
 [reach_linkedin]: https://www.linkedin.com/in/radha-jangid-a0669a22a/
 
