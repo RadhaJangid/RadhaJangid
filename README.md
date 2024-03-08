@@ -21,7 +21,7 @@
 #### Data Visualization Tools
 
 [![Tools | Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi]
-[![Data Visualization Tools | Tableau](https://img.shields.io/badge/Tableau-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][tableau]
+[![Tools | Tableau](https://img.shields.io/badge/Tableau-eeeeee?style=for-the-badge&logo=tableau&logoColor=F2C811&labelColor=fefefe)][tableau]
 
 #### Statistical Programming Languages 
 
