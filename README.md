@@ -13,7 +13,7 @@
 ## :computer: Tech Stack
 
 #### Technical Skills 
-[![Tools | SQL](https://img.shields.io/badge/SQL-eeeeee?style=for-the-badge&logo=microsoft-excel&logoColor=217346&labelColor=fefefe)][sql]
+[![Tools | SQL](https://img.shields.io/badge/SQL-eeeeee?style=for-the-badge&logo=sql&logoColor=217346&labelColor=fefefe)][sql]
 
 
 #### Spreadsheets 
@@ -112,6 +112,7 @@
 [visual_studio_code]: https://code.visualstudio.com/
 [microsoft_excel]: https://www.microsoft.com/en-in/microsoft-365/excel
 [tableau]:https://www.tableau.com/
+[sql]:https://dev.mysql.com/
 
 <!-- GitHub Stats -->
 
