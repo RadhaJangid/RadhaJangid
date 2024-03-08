@@ -37,6 +37,7 @@
 #### Framework & Library
 
 [![Framework & Library | Pandas](https://img.shields.io/badge/Pandas-eeeeee?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=fefefe)][pandas]
+[![Framework & Library | Matplotlib](https://img.shields.io/badge/Matplotlib-eeeeee?style=for-the-badge&logo=matplotlib&logoColor=150458&labelColor=fefefe)][matplotlib]
 
 
 
