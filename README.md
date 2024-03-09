@@ -39,6 +39,9 @@
 
 [![Framework & Library | Pandas](https://img.shields.io/badge/Pandas-eeeeee?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=fefefe)][pandas]
 [![Framework & Library | Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-eeeeee?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=fefefe)][scikit_learn]
+[![Framework & Library | Seaborn](https://img.shields.io/badge/Seaborn-eeeeee?style=for-the-badge&logo=seaborn&logoColor=F7931E&labelColor=fefefe)][seaborn]
+[![Framework & Library | Matplotlib](https://img.shields.io/badge/Matplotlib-eeeeee?style=for-the-badge&logo=matplotlib&logoColor=F7931E&labelColor=fefefe)][matplotlib]
+
 
 
 
@@ -109,6 +112,8 @@
 
 [pandas]: https://pandas.pydata.org/docs/
 [scikit_learn]: https://scikit-learn.org/stable/
+[seaborn]:https://seaborn.pydata.org/docs/
+[matplotlib]:https://matplotlib.org/stable/
 
 <!-- Other Tools -->
 
