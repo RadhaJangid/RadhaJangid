@@ -4,7 +4,7 @@
 ## :tipping_hand_man: About Me
 - Data Analyst & Machine Learning Engineer.
 - An Tech Artisan & Enthusiast Data Scientist.
-- Good at Machine Learning, Excel & SQL.
+- Good at Excel, SQL, Power BI & Machine Learning.
 - MCA graduate in December 2023.
 - Currently Looking for Job.
  💞️I’m looking to collaborate on any data project.
