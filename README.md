@@ -13,41 +13,42 @@
 ## :computer: Tech Stack
 
 #### Technical Skills 
-[![Tools | SQL](https://img.shields.io/badge/SQL-eeeeee?style=for-the-badge&logo=SQL&logoColor=217346&labelColor=fefefe)][sql]
 
+[![Technical Skills | SQL](https://img.shields.io/badge/SQL-eeeeee?style=for-the-badge&logo=SQL&logoColor=217346&labelColor=fefefe)][sql]
 
 #### Spreadsheets 
-[![Tools | MS Excel](https://img.shields.io/badge/Microsoft_Excel-eeeeee?style=for-the-badge&logo=microsoft-excel&logoColor=217346&labelColor=fefefe)][microsoft_excel]
 
-#### Data Visualization Tools
-
-[![Tools | Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi]
-[![Tools | Tableau](https://img.shields.io/badge/Tableau-eeeeee?style=for-the-badge&logo=tableau&logoColor=FF6C37&labelColor=fefefe)][tableau]
-
+[![Spreadsheets | MS Excel](https://img.shields.io/badge/Microsoft_Excel-eeeeee?style=for-the-badge&logo=microsoft-excel&logoColor=217346&labelColor=fefefe)][microsoft_excel]
 
 #### Statistical Programming Languages 
 
-[![Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB)][python]
+[![Statistical Programming Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB)][python]
+
+#### Data Visualization Tools
+
+[![Data Visualization Tools | Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi]
+[![Data Visualization Tools | Tableau](https://img.shields.io/badge/Tableau-eeeeee?style=for-the-badge&logo=tableau&logoColor=FF6C37&labelColor=fefefe)][tableau]
+
 
 #### Database
 
-[![Language | MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=4479A1)][mysql]
-[![Language | MongoDB](https://img.shields.io/badge/Mongo_DB-eeeeee?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=fefefe)][mongodb]
+[![Database | MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=4479A1)][mysql]
+[![Database | MongoDB](https://img.shields.io/badge/Mongo_DB-eeeeee?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=fefefe)][mongodb]
 
 #### Framework & Library
 
 [![Framework & Library | Pandas](https://img.shields.io/badge/Pandas-eeeeee?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=fefefe)][pandas]
+[![Framework & Library | Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-eeeeee?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=fefefe)][scikit_learn]
 
-[![Tools | Machine Learning](https://img.shields.io/badge/Machine_Learning-eeeeee?style=for-the-badge&logo=machine_learning&logoColor=FF6C37&labelColor=fefefe)][machine_learning]
 
 
 #### Other Tools
 
-[![Tools | Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-eeeeee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2C2C32)][visual_studio_code]
-[![Tools | Jupyter](https://img.shields.io/badge/Jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=fefefe)][jupyter]
-[![Tools | Postman](https://img.shields.io/badge/Postman-eeeeee?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=fefefe)][postman]
-[![Tools | Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=ffffff&labelColor=430098)][heroku]
-[![Tools | MS Office](https://img.shields.io/badge/Microsoft_Office-eeeeee?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=fefefe)][microsoft_office]
+[![Other Tools | Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-eeeeee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2C2C32)][visual_studio_code]
+[![Other Tools | Jupyter](https://img.shields.io/badge/Jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=fefefe)][jupyter]
+[![Other Tools | Postman](https://img.shields.io/badge/Postman-eeeeee?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=fefefe)][postman]
+[![Other Tools | Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=ffffff&labelColor=430098)][heroku]
+[![Other Tools | MS Office](https://img.shields.io/badge/Microsoft_Office-eeeeee?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=fefefe)][microsoft_office]
 
 
 
@@ -82,11 +83,21 @@
 
 
 <!-- LINKS -->
-<!-- Language -->
+<!-- Technical Skills -->
+[sql]:https://dev.mysql.com/
 
+<!-- Spreadsheets -->
 
+[microsoft_excel]: https://www.microsoft.com/en-in/microsoft-365/excel
+
+<!-- Statistical Programming Language -->
 
 [python]: https://www.python.org/
+
+<!-- Data Visualization Tools -->
+
+[power_bi]: https://powerbi.microsoft.com/en-au/
+[tableau]:https://www.tableau.com/
 
 
 <!-- Database -->
@@ -96,23 +107,17 @@
 
 <!-- Framework & Library -->
 
-
 [pandas]: https://pandas.pydata.org/docs/
+[scikit_learn]: https://scikit-learn.org/stable/
 
-
-<!-- Tools -->
+<!-- Other Tools -->
 
 [heroku]: https://www.heroku.com/
 [jupyter]: https://docs.jupyter.org/en/latest/
-[microsoft_excel]: https://www.microsoft.com/en-in/microsoft-365/excel
 [microsoft_office]: https://www.microsoft.com/en-in/microsoft-365/microsoft-office
 [postman]: https://www.postman.com/
-[power_bi]: https://powerbi.microsoft.com/en-au/
 [visual_studio_code]: https://code.visualstudio.com/
 [microsoft_excel]: https://www.microsoft.com/en-in/microsoft-365/excel
-[tableau]:https://www.tableau.com/
-[sql]:https://dev.mysql.com/
-[machine_learning]:https://scikit-learn.org/
 
 <!-- GitHub Stats -->
 
